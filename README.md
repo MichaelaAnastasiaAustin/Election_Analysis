@@ -42,7 +42,7 @@ The candidate results were:
 
 * The **winner** of the election was **Diana DeGette** who recieved **73.8%** of the vote, with **272,892 votes**.
 
-![Election Audit Results]("https://user-images.githubusercontent.com/103080942/164946680-869237a7-b330-4fa6-a054-7bb2befbbd17.png")
+![Election Audit Results](https://github.com/MichaelaAnastasiaAustin/Election_Analysis/blob/main/Election_Analysis_Summary.png)
 
 ## Election Audit Summary
 
